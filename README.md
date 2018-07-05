@@ -1,4 +1,8 @@
 ### ***MyTest***
+	热爱开源，热爱生活  
+
+	这个Repository记录一些比较零散的信息，
+  
 	主要用来记录平时的一些小知识点
 
 * git使用总结
@@ -11,6 +15,8 @@
 
 ---
 
-> MarkDown ***插入图片***
-	
-![小明](/image/funImage/xiaoming.jpg)
+> MarkDown ***插入图片***  
+***	
+> ##***我很开心能认识更多的技术大牛，希望能做个朋友！***
+
+![HappyMF](/image/funImage/HappyMF.jpg)
