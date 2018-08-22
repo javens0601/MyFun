@@ -4,6 +4,8 @@
 *.o
 *.obj
 *.class
+target/
+*.log
 
 # Precompiled Headers
 *.gch
