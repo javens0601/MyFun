@@ -1,6 +1,6 @@
 # *Java 类集* #
 ___
-在整个Java类集中最常使用的类集接口是： ***Collection、List、Set、Map、Iterator、ListIterator、Enumeration、SortedSet、SortedMap、Queue、Mao.Entry***   
+在整个Java类集中最常使用的类集接口是： ***Collection、List、Set、Map、Iterator、ListIterator、Enumeration、SortedSet、SortedMap、Queue、Map.Entry***   
 
 * **Collection**  是存放一组单值的最大接口，所谓的单值指的是集合中的每个元素都是一个对象。一般很少直接使用此接口直接操作
 *  **List** 是 *Collection* 接口的子接口，也是最常用的接口。此接口对 *Collection* 接口进行了大量的扩充。里面的内容都是允许重复的
