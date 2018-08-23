@@ -6,7 +6,7 @@
 *.class
 target/
 *.log
-.idea/
+.idea/*
 
 # Precompiled Headers
 *.gch
