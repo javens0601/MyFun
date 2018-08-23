@@ -57,25 +57,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CollectionDemo.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="CollectionDemo.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/testJava/com/javen/src/CollectionDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="549">
-              <caret line="22" column="6" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
+            <state relative-caret-position="96">
+              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="31" selection-end-column="43" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
                 <element signature="imports" expanded="true" />
-                <element signature="e#466#474#0" expanded="true" />
+                <element signature="e#980#988#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Object.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Object.java" pinned="false" current-in-tab="false">
         <entry file="jar://E:/Work/Tool/jdk1.7.0_80/src.zip!/java/lang/Object.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1605">
-              <caret line="552" column="50" selection-start-line="552" selection-start-column="50" selection-end-line="552" selection-end-column="50" />
+            <state relative-caret-position="261">
+              <caret line="524" column="10" selection-start-line="524" selection-start-column="10" selection-end-line="524" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -212,10 +212,8 @@
     <treeState />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="1938" />
-    <option name="height" value="1064" />
+    <option name="width" value="960" />
+    <option name="height" value="1046" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -855,7 +853,7 @@
       <workItem from="1534810058665" duration="5293000" />
       <workItem from="1534900622969" duration="10465000" />
       <workItem from="1534925378846" duration="1847000" />
-      <workItem from="1535004567764" duration="3467000" />
+      <workItem from="1535004567764" duration="4562000" />
     </task>
     <servers />
   </component>
@@ -892,10 +890,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="106652000" />
+    <option name="totallyTimeSpent" value="107747000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1064" extended-state="0" />
+    <frame x="0" y="0" width="960" height="1046" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1267,23 +1265,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testJava/com/javen/src/CollectionDemo.java">
+    <entry file="jar://E:/Work/Tool/jdk1.7.0_80/src.zip!/java/lang/Object.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="549">
-          <caret line="22" column="6" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="imports" expanded="true" />
-            <element signature="e#466#474#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="261">
+          <caret line="524" column="10" selection-start-line="524" selection-start-column="10" selection-end-line="524" selection-end-column="10" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://E:/Work/Tool/jdk1.7.0_80/src.zip!/java/lang/Object.java">
+    <entry file="file://$PROJECT_DIR$/testJava/com/javen/src/CollectionDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1605">
-          <caret line="552" column="50" selection-start-line="552" selection-start-column="50" selection-end-line="552" selection-end-column="50" />
-          <folding />
+        <state relative-caret-position="96">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="31" selection-end-column="43" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#980#988#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
