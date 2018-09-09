@@ -54,3 +54,4 @@ public class EnumDemo {
         System.out.println(pe.getClass().getDeclaredClasses());
     }
 }
+
