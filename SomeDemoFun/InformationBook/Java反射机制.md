@@ -91,6 +91,8 @@
 - 之后
 才可以通过invok方法进行调用，并向方法中传递要设置的参数。
 
+![反射调用方法过程](image/7.JPG)
+
 	package com.jinwei.ref;
 	
 	import java.lang.reflect.Method;
