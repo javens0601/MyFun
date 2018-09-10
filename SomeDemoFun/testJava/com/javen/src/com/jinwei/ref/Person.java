@@ -35,12 +35,7 @@ public class Person implements China{
         System.out.println("COUNTRY --->> " + this.COUNTRY + "  AUTHO --->> " + this.AUTHO);
     }
 
-    public String sayHello(String name, int age) {
-        return toString();
-    }
-
-    @Override
-    public String toString() {
-            return "NAME is ---->> " + name + "   AGE is ---->> " + age;
+    public void sayHello(String name, int age) {
+        System.out.println("NAME is ---->> " + name + "   AGE is ---->> " + age);
     }
 }

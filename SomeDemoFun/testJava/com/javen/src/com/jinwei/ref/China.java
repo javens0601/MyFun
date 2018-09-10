@@ -7,5 +7,5 @@ public interface China {
     String COUNTRY = "CHINA";
     String AUTHO = "JAVEN";
     void sayChina();
-    String sayHello(String name, int age);
+    void sayHello(String name, int age);
 }

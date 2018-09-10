@@ -15,7 +15,9 @@ public class RefFunDemo {
         }
         try {
             Method method = cls.getMethod("sayChina");
+            Method method1 = cls.getMethod("sayHello", String.class, int.class);
             method.invoke(cls.newInstance());
+            method1.invoke(cls.newInstance(), "javen", 23);
         }catch (Exception e){
             e.printStackTrace();
         }
